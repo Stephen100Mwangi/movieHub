@@ -3,7 +3,7 @@ import Loading from "./components/Loading";
 import MovieCard from "./components/MovieCard";
 import Search from "./components/Search";
 import { useEffect, useState } from "react";
-import { getTrendingMovies, updateSearchCount } from "./appWrite";
+import { getTrendingMovies, updateSearchCount } from "./appwrite";
 import { Models } from "appwrite";
 
 interface Movie {

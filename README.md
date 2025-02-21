@@ -49,7 +49,7 @@ To get started with this application,
 1. Clone the repo
 
     - Head over to a preferred directory on your local computer. In the terminal run
-    `git clone`
+    `git clone https://github.com/Stephen100Mwangi/movieHub.git`
 
 2. Install all packages
 

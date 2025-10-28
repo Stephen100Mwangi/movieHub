@@ -3,7 +3,7 @@
 ![Movie List](image.png)
 ![Hero page](image-1.png)
 
-This is a `React.js` app, that incorporates `appwrite` for backend as a service features. The app allows users to fetch movies and see list of trending movies.
+[MovieHub](https://moviehub-juqq.onrender.com/) is a `React.js` app, that incorporates `appwrite` for backend as a service features. The app allows users to fetch movies and see list of trending movies.
 
 
 ## Features
